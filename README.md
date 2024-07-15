@@ -1,6 +1,6 @@
 ## MMP-Attack
 
-This repository is the official repository for our paper "Cheating Suffix: Targeted Attack to Text-To-Image Diffusion Models with Multi-Modal Priors" 
+This repository is the official repository for our paper "On the Multi-modal Vulnerability of Diffusion Models" 
 
 <p align="center">
   <img src="figures/pipeline.png" alt="bounding box" width="640px">
