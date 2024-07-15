@@ -17,3 +17,19 @@ You can execute the following command to perform a targeted attack, transforming
 ```
 python attack.py --ori_sentence "a photo of car" --target_word bird 
 ```
+
+## Citation
+
+If you benefit from our work in your research, please consider to cite the following paper:
+```
+@inproceedings{
+yang2024on,
+title={On the Multi-modal Vulnerability of Diffusion Models},
+author={Dingcheng Yang and Yang Bai and Xiaojun Jia and Yang Liu and Xiaochun Cao and Wenjian Yu},
+booktitle={Trustworthy Multi-modal Foundation Models and AI Agents (TiFA)},
+year={2024},
+url={https://openreview.net/forum?id=FuZjlzR7kT}
+}
+```
+
+Please feel free to contact us if you have any questions.
